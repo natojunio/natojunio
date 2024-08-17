@@ -1,6 +1,8 @@
 
 ### Olá! Eu sou o Renato Moura 😉🖐️
 
+  Desde os 5 anos, sou apaixonado por tecnologia, o que me impulsiona a buscar constante aperfeiçoamento na área. Atualmente, atuo como analista computacional em um provedor de internet e estou cursando Sistemas de Informação na AlfaUnipac (1/8). Também possuo formação em Técnico de Informática e Segurança da Informação
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rj_mouraa/)
 
@@ -15,7 +17,6 @@
   <img align="center" alt="linguagem html" src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   </div><br/>
 
-  Desde os 5 anos, sou apaixonado por tecnologia, o que me impulsiona a buscar constante aperfeiçoamento na área. Atualmente, atuo como analista computacional em um provedor de internet e estou cursando Sistemas de Informação na AlfaUnipac (1/8). Também possuo formação em Técnico de Informática e Segurança da Informação
 
 
 
